@@ -1,0 +1,28 @@
+/* font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@100;200;300;400;500;600;700&family=Poppins:wght@200;300;400;500;600;700&family=Rubik:wght@300;400;500;600&display=swap');
+
+*{
+  color: #2E2E2E;
+  list-style: none;
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+
+body {
+  width: 100%;
+}
+.nav2icon{
+ background: #2F6CE5 !important;
+}
+.nav2icon a{
+  color: #FFFFFF !important;
+}
+.nav2icon svg path{
+  color: #FFFFFF;
+}
